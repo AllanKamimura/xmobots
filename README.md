@@ -1,7 +1,7 @@
 # xmobots
 this project is part of the xmobots AI and Computer Vision case
 
-![alt text](assets\example.jpg)
+![alt text](assets/example.jpg)
 
 The task involves training a machine learning or deep learning model using a labeled dataset, where each image is associated with a class label (tree or no tree). The model learns to extract features from the images and uses them to make predictions on unseen images.
 
@@ -34,6 +34,6 @@ As a bonus, I also included the saved weights for 2 more models, that use a diff
 
 Image Segmentation    |  Object Detection
 :-------------------------:|:-------------------------:
-![alt text](assets\image_segmentation.png) | ![alt text](assets\object%20detection.png)
+![alt text](assets/image_segmentation.png) | ![alt text](assets/object%20detection.png)
 
 
