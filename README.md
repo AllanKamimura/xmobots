@@ -13,6 +13,10 @@ The complete code for training can be found here:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AllanKamimura/xmobots/blob/main/train.ipynb)
 
+### Results
+I got around 0.9115 weighted F1 score on the training dataset and 0.8940 weighted F1 score on my testing dataset, with the threshold of 0.57, which I found to be optimal.
+![alt text](assets/f1_score.png)
+
 ----
 ## inference
 Inference for an image binary classification model refers to the process of using the trained model to make predictions on new, unseen images.
